@@ -25,14 +25,29 @@ html {
   font-size: 62.5%;
 }
 
-header li {
+/* header li {
   float: left;
   padding-left: 8rem;
   padding-bottom: 1rem;
   list-style: none;
   font-size: 1.7rem;
-  /* margin-left: 2rem; */
+}
 
+header li a {
+  text-decoration: none;
+  color: rgba(52, 57, 65, 1);
+} */
+
+header ul {
+  display: flex;
+  align-items: flex-start;
+}
+
+header li {
+  width: 40%;
+  font-size: 2rem;
+  list-style: none;
+  text-decoration: none;
 }
 
 header li a {
@@ -425,9 +440,6 @@ footer {
 }
 
 @media (min-width: 901px) and (max-width: 1130px) {
-  header li{
-    display: none;
-  }
 
   .sibilinParagraph {
     width: 100%;
