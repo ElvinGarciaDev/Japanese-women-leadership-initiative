@@ -25,19 +25,6 @@ html {
   font-size: 62.5%;
 }
 
-/* header li {
-  float: left;
-  padding-left: 8rem;
-  padding-bottom: 1rem;
-  list-style: none;
-  font-size: 1.7rem;
-}
-
-header li a {
-  text-decoration: none;
-  color: rgba(52, 57, 65, 1);
-} */
-
 header ul {
   display: flex;
   align-items: flex-start;
@@ -378,6 +365,28 @@ footer {
 
   #shadowLady {
     display: none;
+  }
+
+  form input {
+    width: 50%;
+    margin: 2px auto;
+    border-radius: 1rem;
+    border: none;
+    margin-top: 10px;
+    display: block;
+
+  }
+
+  form button {
+    width: 25%;
+    border: none;
+    border-radius: 1rem;
+    display: block;
+    margin: 2px auto;
+    margin-top: 10px;
+
+
+
   }
 
   #ourHistory img {
