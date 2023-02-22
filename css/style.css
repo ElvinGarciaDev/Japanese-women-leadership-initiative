@@ -357,6 +357,17 @@ footer {
     display: none;
   }
 
+  .nameForm > h2 {
+    margin-right: 100px;
+    width: 80%;
+  }
+
+  .nameForm span {
+    margin-right: 100px;
+    width: 80%;
+
+  }
+
   .sibilinParagraph {
     width: 100%;
     margin: 0 auto;
@@ -375,6 +386,9 @@ footer {
     margin-top: 10px;
     display: block;
 
+    margin-right: 100px;
+    width: 80%;
+
   }
 
   form button {
@@ -384,6 +398,10 @@ footer {
     display: block;
     margin: 2px auto;
     margin-top: 10px;
+
+    margin-right: 100px;
+    width: 80%;
+    
 
 
 
