@@ -4,6 +4,8 @@ This is a fully responsive mockup for the Japan Women's Leadership Initiative.
 
 **Link to project:** https://jwlinitiative.netlify.app/
 
+<img width="1674" alt="Screen Shot 2022-10-11 at 7 18 37 PM" src="https://user-images.githubusercontent.com/91163017/195215690-c270ca66-0846-40b0-9646-c01e143f681b.png">
+
 
 ## How It's Made:
 
